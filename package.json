@@ -1,0 +1,14 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "Web socket",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^4.0.0"
+  }
+}
