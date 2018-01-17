@@ -9,6 +9,9 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "config": "^1.29.2",
+    "ioredis": "^3.2.2",
+    "socket.io": "^2.0.4",
     "ws": "^4.0.0"
   }
 }
