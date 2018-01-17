@@ -6,7 +6,7 @@
   "repository": {},
   "license": "MIT",
   "scripts": {
-    "start": "node server.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "config": "^1.29.2",
